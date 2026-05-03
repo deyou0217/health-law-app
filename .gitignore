@@ -1,0 +1,15 @@
+# 打包输出
+dist/
+build/
+*.exe
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# 临时文件
+*.log
+*.tmp
